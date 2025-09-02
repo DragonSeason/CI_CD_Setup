@@ -18,3 +18,4 @@ If a significant performance loss compared to monolith structures can be measure
 
 ## Motivation
 As stated above, this project is used to learn more about modern architectures and ways to structure data and functional code.
+I want to learn about the current possibilities and limitations of containerized/minimal environment structures.
