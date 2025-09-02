@@ -19,3 +19,22 @@ If a significant performance loss compared to monolith structures can be measure
 ## Motivation
 As stated above, this project is used to learn more about modern architectures and ways to structure data and functional code.
 I want to learn about the current possibilities and limitations of containerized/minimal environment structures.
+
+## Tools
+FOS and highly customizable tools are prioritized.
+
+## Research steps
+1. What is "containerarization"?
+  - is a type of virtualization [1] 
+  - also called "OS-Virtualization" [1] 
+  - potentially reduces overhead and improved utilization of datacenters [1] 
+  - cpu, memory, network efficient [1]
+  - not only OS, but also applications can be containerized
+2. What are limitations?
+  - Linux applications would need a linux host [1] -> conflicts with goal "platform independent" 
+  - Mac is less supported [1] -> restricting os complications?
+3. What types of "containers" are already existent?
+
+
+## Sources used
+[1] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861307
